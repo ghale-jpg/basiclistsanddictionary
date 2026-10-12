@@ -1,5 +1,4 @@
 
-# QUESTION 5: RESTAURANT ORDER SYSTEM
 
 menu = {
     "momo": 180,
